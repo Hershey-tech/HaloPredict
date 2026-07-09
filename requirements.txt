@@ -1,5 +1,7 @@
 streamlit
-biopython
 scikit-learn
 pandas
 numpy
+google-genai
+python-dotenv
+biopython
