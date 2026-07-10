@@ -193,7 +193,6 @@ MAKKTSSKNLVVKIRDLEHQKEIEELQAQLGQVTVRIDDGKQVQFDSSPYAAKLFKTSEQILAKLNELRAEAEKALADEG
 
 🔗 **Live Demo:** [halopredict.streamlit.app](https://halopredict.streamlit.app)
 
-[Add screenshots here]
 
 ---
 
