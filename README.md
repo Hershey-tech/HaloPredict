@@ -291,7 +291,7 @@ A proof-of-concept quantum demo was built using **Amazon Braket LocalSimulator**
 
 ## Author
 **Harshita Prajapati**
-B.Tech Biotechnology (AI/ML & Data Science Track)
+B.Tech Biotechnology (AI/ML)
 Amity University, Noida — Batch 2023–2027
 
 ---
